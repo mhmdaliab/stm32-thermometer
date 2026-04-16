@@ -55,7 +55,7 @@ The PCB is designed as a compact single-board solution integrating:
 
 ### 🖼️ PCB Preview
 
-![PCB](https://github.com/mhmdaliab/stm32-thermometer/blob/main/hardware/ThermometerMain.PcbDoc)
+![PCB](hardware/ThermometerMain.PcbDoc)
 
 ---
 
