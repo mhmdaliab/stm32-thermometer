@@ -34,6 +34,35 @@ A simple embedded system project that reads temperature and pressure data from a
   - SPI / Parallel (for TFT)
 
 ---
+## 🧩 Hardware Design
+
+### 📐 Schematic
+
+The schematic includes:
+- STM32F0 microcontroller
+- BMP280 sensor (I2C)
+- TFT LCD interface (SPI)
+- Power regulation and decoupling
+
+You can find the full schematic here:
+- `/hardware/schematic/`
+
+### 🪛 PCB Layout
+
+The PCB is designed as a compact single-board solution integrating:
+- MCU + sensor + display connectors
+- Proper grounding and decoupling
+- Signal routing for SPI and I2C
+
+Files:
+- `/hardware/pcb/`
+- `/hardware/gerbers/` (for manufacturing)
+
+### 🖼️ PCB Preview
+
+> (Add images here — top layer, bottom layer, 3D view)
+
+---
 
 ## 🔌 System Architecture
 
