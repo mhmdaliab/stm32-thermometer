@@ -53,11 +53,9 @@ The PCB is designed as a compact single-board solution integrating:
 - Proper grounding and decoupling
 - Signal routing for SPI and I2C
 
-> /hardware/Thermometer-PcbDoc.PNG
-
 ### 🖼️ PCB Preview
 
-> (Add images here — top layer, bottom layer, 3D view)
+![PCB](/hardware/Thermometer-PcbDoc.PNG)
 
 ---
 
