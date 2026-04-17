@@ -55,7 +55,7 @@ The PCB is designed as a compact single-board solution integrating:
 
 ### 🖼️ PCB Preview
 
-![PCB](hardware/ThermometerMain.PcbDoc)
+![PCB](docs/ThermometerMain.PcbDoc)
 
 ---
 
