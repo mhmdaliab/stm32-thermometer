@@ -65,7 +65,7 @@ The PCB is designed as a compact single-board solution integrating:
 
 ## 📷 Demo
 
-> (Add images or GIFs of your setup here)
+![Demo](docs/Thermometer.PNG)
 
 ---
 
