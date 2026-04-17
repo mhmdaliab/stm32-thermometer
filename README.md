@@ -44,7 +44,7 @@ The schematic includes:
 - TFT LCD interface (SPI)
 - Power regulation and decoupling
 
-- `/hardware/Thermometer-SchDoc.PNG`
+![Schematic](docs/Thermometer-SchDoc.PNG)
 
 ### 🪛 PCB Layout
 
@@ -55,7 +55,7 @@ The PCB is designed as a compact single-board solution integrating:
 
 ### 🖼️ PCB Preview
 
-![PCB](docs/ThermometerMain.PcbDoc)
+![PCB](docs/Thermometer-PcbDoc.PNG)
 
 ---
 
